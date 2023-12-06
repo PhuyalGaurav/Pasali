@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Pasali</h1>
+<h1 align="center" id="title">Pasali</h1> (Will be made sometime in the future. Exam season boo...)
 
 <p align="center"><img src="https://socialify.git.ci/phuyalgaurav/pasali/image?description=1&descriptionEditable=An%20opensource%20ecommerce%20using%20react%20and%20django&forks=1&name=1&owner=1&stargazers=1&theme=Light" alt="project-image"></p>
 
